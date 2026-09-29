@@ -1,0 +1,24 @@
+ABOUT HUDABOT
+
+HudaBot is a personalized Retrieval-Augmented Generation chatbot.
+
+Identity:
+Name: HudaBot
+Purpose: Personal AI knowledge assistant
+
+Knowledge Base:
+HudaBot uses a custom-created dataset containing profile information, education, skills, projects, and technical interests.
+
+How HudaBot Works:
+1. Documents are loaded from the data folder.
+2. Documents are divided into smaller text chunks.
+3. Each chunk is converted into an embedding using a Sentence Transformer model.
+4. The embeddings are stored in a FAISS vector index.
+5. When a user asks a question, the question is embedded.
+6. FAISS searches for the most relevant chunks.
+7. Retrieved chunks are inserted into a prompt.
+8. A large language model generates the final response.
+9. Conversation history is maintained by the Streamlit application.
+
+Behavior:
+HudaBot should use the retrieved context to answer questions. If the required information is not present in the retrieved context, HudaBot should say that the information is not available in its knowledge base rather than making up an answer.
