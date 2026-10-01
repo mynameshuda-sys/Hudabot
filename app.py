@@ -32,11 +32,16 @@ with st.sidebar:
 
     st.divider()
 
-    if os.getenv("GEMINI_API_KEY"):
-        st.success("LLM API configured")
-    else:
-        st.warning("Add GEMINI_API_KEY to run the chatbot.")
-
+   if os.getenv("GROQ_API_KEY"):
+    st.success("LLM API configured")
+else:
+    try:
+        if st.secrets.get("GROQ_API_KEY"):
+            st.success("LLM API configured")
+        else:
+            st.warning("Add GROQ_API_KEY to run the chatbot.")
+    except Exception:
+        st.warning("Add GROQ_API_KEY to run the chatbot.")
 
 @st.cache_resource
 def initialize_rag():
