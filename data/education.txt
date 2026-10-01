@@ -1,0 +1,23 @@
+HUDA BOT - EDUCATION AND ACADEMIC INFORMATION
+
+Degree:
+Bachelor's degree in Artificial Intelligence from UMT.
+
+Academic Areas:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Data Science
+- Cybersecurity
+- Knowledge Representation and Reasoning
+- Databases
+- Operating Systems
+- Computer Networks
+
+Academic Project Experience:
+Work includes AI and data projects, computer vision projects, NLP applications, data analysis, and software development.
+
+NLP PROJECT:
+The current semester project is a Retrieval-Augmented Generation chatbot. The system uses a custom dataset, document preprocessing, embeddings, a vector database, retrieval, an LLM, prompt engineering, conversation history, and a Streamlit interface.
