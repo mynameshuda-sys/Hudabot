@@ -1,0 +1,107 @@
+HUDA BOT - PROJECT PORTFOLIO
+
+PROJECT 1: CCTV CLOTHING RECOGNITION SYSTEM
+
+Objective:
+The project focuses on analyzing Pakistani CCTV footage and identifying what people are wearing.
+
+Main Idea:
+The system processes CCTV footage, detects people, extracts person regions, and analyzes clothing attributes.
+
+Potential Technologies:
+- Python
+- Computer Vision
+- Deep Learning
+- Object Detection
+- Image Classification
+- Multimodal AI
+
+Dataset Work:
+The project involved processing CCTV images and person crops, checking image quality, detecting duplicates, and preparing annotated data for machine learning.
+
+The desired person crop contains as much of the person as possible, including the head, face where visible, shoulders, arms, hands, legs, and feet. Images where the face is not visible can be separated for later processing.
+
+Current Modeling Direction:
+The initial goal is to build a system that can describe what a person is wearing. A more advanced multimodal approach can be considered after sufficient annotated data is available.
+
+
+PROJECT 2: DAILY EXPENSE TRACKER AND BUDGET ANALYZER
+
+Objective:
+A data analytics project for analyzing daily expenses and comparing spending with a monthly budget.
+
+Dataset Categories:
+- Food
+- Transport
+- Entertainment
+- Utilities
+- Others
+- Total
+
+Main Outputs:
+- Total daily spending
+- Monthly spending
+- Spending compared with total budget
+- Amount by which the budget was exceeded
+- Remaining savings
+- Highest spending category
+- Lowest spending category
+
+Technologies:
+- Python
+- Pandas
+- Matplotlib
+- Data Analysis
+
+
+PROJECT 3: PERSONAL PRODUCTIVITY ANALYZER
+
+Objective:
+A productivity analysis project based on daily task timing and focus levels.
+
+Main Outputs:
+- Daily productivity visualization
+- Peak productive hours
+- Most productive tasks
+- Least productive tasks
+- Focus-level analysis
+
+Technologies:
+- Python
+- Pandas
+- Matplotlib
+
+
+PROJECT 4: Weapon detection
+
+Objective:
+A software that detects weapons in a crowd.
+
+Areas:
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Cybersecurity
+- Ethical Hacking
+- AI Security
+
+The goal is to develop systems crucial for live safety of humans. 
+
+
+PROJECT 5: PERSONAL RAG CHATBOT - HUDABOT
+
+Objective:
+HudaBot is a Retrieval-Augmented Generation chatbot designed to answer questions using a custom personal knowledge base.
+
+Core technologies:
+- Document preprocessing
+- Text chunking
+- Sentence Transformer embeddings
+- FAISS vector search
+- Large Language Model
+- Prompt engineering
+- Conversation history
+- Streamlit interface
+
+The chatbot should answer questions using retrieved information from the custom dataset and should avoid inventing information that is not present in the knowledge base.
