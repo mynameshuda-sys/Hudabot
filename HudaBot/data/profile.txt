@@ -1,0 +1,32 @@
+HUDA BOT - PERSONAL PROFILE
+
+Name: Noor-ul-Huda
+
+Education:
+Noor-ul-Huda is pursuing a Bachelor's degree in Artificial Intelligence.
+
+Academic Interests:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Cybersecurity
+
+Career Interests:
+Noor-ul-Huda is interested in combining Artificial Intelligence with Cybersecurity. Areas of interest include AI engineering, machine learning, computer vision, NLP, and ethical hacking.
+
+Learning Style:
+Noor-ul-Huda prefers practical projects, simple explanations, step-by-step implementation, and hands-on programming.
+
+Programming and Technical Areas:
+- Python
+- C++
+- SQL
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Natural Language Processing
+- Data Analysis
+- Streamlit
+- Git and GitHub

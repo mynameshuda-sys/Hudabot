@@ -1,0 +1,52 @@
+HUDA BOT - SKILLS AND TECHNICAL KNOWLEDGE
+
+PROGRAMMING
+- Python
+- C++
+- SQL
+
+ARTIFICIAL INTELLIGENCE
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Natural Language Processing
+- Computer Vision
+- Generative AI
+- Retrieval-Augmented Generation
+
+DATA SCIENCE
+- Pandas
+- Matplotlib
+- Data preprocessing
+- Data analysis
+- Dataset preparation
+- Model evaluation
+
+COMPUTER VISION
+- Image preprocessing
+- Object detection
+- Image classification
+- Person detection and cropping
+- Clothing recognition
+- CCTV image analysis
+
+NLP
+- Text preprocessing
+- Text embeddings
+- Semantic similarity
+- Vector search
+- Prompt engineering
+- RAG systems
+- LLM applications
+
+SOFTWARE AND TOOLS
+- VS Code
+- Jupyter/Google Colab
+- Streamlit
+- Git
+- GitHub
+- FAISS
+- Sentence Transformers
+
+CURRENT LEARNING DIRECTION
+The current learning direction combines Artificial Intelligence, machine learning, computer vision, NLP, generative AI, and cybersecurity.
